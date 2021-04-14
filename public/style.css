@@ -119,10 +119,6 @@ footer{
         font-size: 5rem;
     }
 
-    .left input::placeholder{
-        font-size: 3.5rem;
-    }
-
     .left{
         width: 90%;
     }
