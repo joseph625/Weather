@@ -60,9 +60,9 @@ return(
         <h3 id="city-name">----</h3>
         <h1 id="weather-type">----</h1>
         <ul>
-            <li>Temp: <span id="temp">--</span>°</li>
-            <li>Min Temp: <span id="min-temp">--</span>°</li>
-            <li>Max Temp: <span id="max-temp">--</span>°</li>
+            <li>Temp: <span id="temp">--</span>C°</li>
+            <li>Min Temp: <span id="min-temp">--</span>C°</li>
+            <li>Max Temp: <span id="max-temp">--</span>C°</li>
         </ul>
         </div>
 </div>
