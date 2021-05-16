@@ -129,6 +129,12 @@ footer{
 
 }
 
+@media only screen and (max-width: 720px){
+    .right img{
+        width: 100%;
+    }
+}
+
 @media only screen and (max-width: 430px){
     ul li{
         font-size: 3rem;
