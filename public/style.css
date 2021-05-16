@@ -135,6 +135,16 @@ footer{
     }
 }
 
+@media only screen and (max-width: 450px){
+    .left > h1{
+        font-size: 4rem;
+    }
+    .left > a > button{
+        font-size: 2rem;
+    }
+
+}
+
 @media only screen and (max-width: 430px){
     ul li{
         font-size: 3rem;
